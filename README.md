@@ -8,7 +8,7 @@ I’m interested in front-end development and graphic design, focusing on crafti
 
 - 💞️ I’m looking to collaborate on innovative front-end projects and open-source contributions.
 
-- 📫 Reach me at eddyzzero@example.com or connect on LinkedIn at linkedin.com/in/eddyzzero.
+- 📫 Reach me at jhon.florezr@gmail.com or connect on LinkedIn at [linkedin.com/in/eddyzzero.](https://www.linkedin.com/in/jhon-florez-102aa82b3/)
 
 - 😄 Pronouns:
   Pronouns: He/Him
