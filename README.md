@@ -1,8 +1,8 @@
 - 👋 Hi! I’m jhon you can call me Eddy, a front-end developer and graphic designer, passionate about creating engaging web experiences.
 
-👀 I’m interested in front-end development and graphic design, focusing on crafting responsive, user-friendly interfaces and visually appealing designs.
+👀 Focusing on crafting responsive, user-friendly interfaces and visually appealing designs.
 
-- 🌱 I’m currently learning React, Vue.js, and advanced CSS techniques.
+- 🌱 I’m currently learning React, Vue.js, Node.js and advanced CSS techniques.
 
 - 💞️ I’m looking to collaborate on innovative front-end projects and open-source contributions.
 
