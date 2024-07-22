@@ -7,7 +7,5 @@
 - 💞️ I’m looking to collaborate on innovative front-end projects and open-source contributions.
 
 - 📫 Reach me at jhon.florezr@gmail.com or connect on LinkedIn at [linkedin.com/in/eddyzzero.](https://www.linkedin.com/in/jhon-florez-102aa82b3/)
-
-- 😄 Pronouns : He/Him
-
+  
 - ⚡ Fun fact: I’m a psychology enthusiast who loves understanding human behavior and its impact on user interaction.
