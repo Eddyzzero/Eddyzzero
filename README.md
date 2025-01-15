@@ -2,7 +2,7 @@
 
 👀 Focusing on crafting responsive, user-friendly interfaces and visually appealing designs.
 
-- 🌱 I’m currently learning React, Vue.js, Node.js and advanced CSS techniques.
+- 🌱 I’m currently learning Vue.js, Node.js and advanced CSS techniques.
 
 - 💞️ I’m looking to collaborate on innovative front-end projects and open-source contributions.
 
